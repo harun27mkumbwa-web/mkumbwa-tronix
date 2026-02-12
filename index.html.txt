@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MKUMBWA TRONIX</title>
+    <style>
+        body { font-family: Arial; background-color: #0d1117; color: white; text-align: center; padding: 50px; }
+        h1 { color: #00ffcc; }
+        .btn { background: #00ffcc; padding: 10px 20px; color: black; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>MKUMBWA TRONIX</h1>
+    <p>Precision Repairs, Quality Accessories</p>
+    <p>Phone | Computer | TV | Radio | PS Repair</p>
+    <br>
+    <a class="btn" href="tel:0623727539">Call Now</a>
+</body>
+</html>
